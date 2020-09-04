@@ -1,0 +1,2 @@
+# smc
+Smc Wordpress App
